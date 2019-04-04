@@ -32,6 +32,6 @@
     + 취소선 : ~~글~~
   
 - 이미지
-    - ![Alt text](\Users\user\Desktop\HTML\images\first.jpg)
+    - ![Alt text](.\first.jpg)
       ![Alt text](C:\Users\user\Desktop\HTML\images\watch.jpg "Watchsmallclock")
    

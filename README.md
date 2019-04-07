@@ -33,5 +33,5 @@
   
 - 이미지
     - ![Alt text](./first.jpg)
-      ![Alt text](C:\Users\user\Desktop\HTML\images\watch.jpg "Watchsmallclock")
+      ![Alt text](./ "Watchsmallclock")
    

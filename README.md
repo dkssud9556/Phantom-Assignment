@@ -33,5 +33,5 @@
   
 - 이미지
     - ![Alt text](./first.jpg)
-      ![Alt text](./ "Watchsmallclock")
+      ![Alt text](./watch.jpg "Watchsmallclock")
    

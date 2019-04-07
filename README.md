@@ -1,6 +1,6 @@
 # Phantom-Assignment
 
-### 마크다운 사용법
+## 마크다운 사용법
 - "#" ~ "######" : 제목으로 쓸 말 앞에 써주면 글씨가 굵고 크게 나온다.(#이 적을수록 크다.)
 - ">" : 인용문을 적을 때 사용된다.
 > 인용문
@@ -35,7 +35,7 @@
     - ![Alt text](./first.jpg)
       ![Alt text](./watch.jpg "Watchsmallclock")
 ---
-### Git 명령어
+## Git 명령어
 - 작업의 흐름
  1. 작업 디렉토리(Working directory) : 실제 파일들로 이루어짐.
  2. 인덱스(Index) : 준비 영역의 역할을 함.
@@ -55,7 +55,7 @@
 5. git 상태 확인
  - git status
 ---
-### API
+## API
 #### UI(User Interface)
 - UI : 컴퓨터와 사람간의 의사소통을 가능하게 해주는 하드웨어적 또는 소프트웨어적 인터페이스.
   - 예 : 웹 브라우저의 뒤로가기 버튼, 키보드의 tab키, Github 사이트 Pull requests 버튼 등.

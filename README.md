@@ -34,7 +34,7 @@
 - 이미지
     - ![Alt text](./first.jpg)
       ![Alt text](./watch.jpg "Watchsmallclock")
-   
+---
 ### Git 명령어
 - 작업의 흐름
  1. 작업 디렉토리(Working directory) : 실제 파일들로 이루어짐.

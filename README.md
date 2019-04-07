@@ -35,3 +35,22 @@
     - ![Alt text](./first.jpg)
       ![Alt text](./watch.jpg "Watchsmallclock")
    
+### Git 명령어
+- 작업의 흐름
+ 1. 작업 디렉토리(Working directory) : 실제 파일들로 이루어짐.
+ 2. 인덱스(Index) : 준비 영역의 역할을 함.
+ 3. HEAD : 최종 확정본(commit)을 나타냄.
+ 
+1. 새로운 저장소 만들기
+ - git init : 새로운 git 저장소 만들기.
+2. 저장소 
+ - git clone /로컬/저장소/경로 : 로컬 저장소 복제(내 깃 레포지토리 주소)
+ - git clone 사용자명@호스트:/원격/저장소/경로 : 원격 서버 저장소 복제.
+3. 추가와 확정
+ - git add <파일 이름> : 변경된 파일을 (인덱스에) 추가함.
+ - git commit -m "이번 확정본에 대한 설명" : 변경 내용을 확정.(변경된 파일이 HEAD에 반영됨.)
+4. 변경 내용 발행(push)하기
+ - git push origin master : 변경 내용을 원격 서버로 올림.
+ - git remote add origin <원격 서버 주소> : 기존에 있던 원격 저장소를 복제하지 않았을 때, 원격 서버의 주소를 git에게 알려줌.
+5. git 상태 확인
+ - git status
